@@ -10,8 +10,9 @@ namespace FirstTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
-            Console.Read();
+            var window = new Game(1280, 720);
+            //var window = new HelloCube();
+            window.Run(60d);
         }
     }
 }
