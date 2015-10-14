@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTest", "FirstTest\Firs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeoKabutoTutorial", "NeoKabutoTutorial\NeoKabutoTutorial.csproj", "{FDB13E26-6B11-453D-8458-937D57FCF98F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeoKabutoTutorial2", "NeoKabutoTutorial2\NeoKabutoTutorial2.csproj", "{C3C950D7-FA8B-4681-8038-22AC8037A583}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FDB13E26-6B11-453D-8458-937D57FCF98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDB13E26-6B11-453D-8458-937D57FCF98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDB13E26-6B11-453D-8458-937D57FCF98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C950D7-FA8B-4681-8038-22AC8037A583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C950D7-FA8B-4681-8038-22AC8037A583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C950D7-FA8B-4681-8038-22AC8037A583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C950D7-FA8B-4681-8038-22AC8037A583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
